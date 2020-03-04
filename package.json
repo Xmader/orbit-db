@@ -48,7 +48,7 @@
     "go-ipfs-dep": "~0.4.20",
     "ipfs": "~0.40.0",
     "ipfs-http-client": "~37.0.1",
-    "ipfs-repo": "~0.30.1",
+    "ipfs-repo": "^1.0.0",
     "ipfsd-ctl": "~0.42.3",
     "localstorage-level-migration": "~0.1.0",
     "markdown-toc": "^1.2.0",
